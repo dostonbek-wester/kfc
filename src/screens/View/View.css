@@ -1,0 +1,113 @@
+.menu-container{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 20px;
+    padding-top: 150px;
+    width: 100% !important;
+}
+.l-side{
+    width: 15%;
+    
+}
+.menus{
+    
+    display: flex;
+    gap: 18px;
+    padding-left: 20px;
+    flex-direction: column;
+    position: fixed;
+}
+#menun:hover{
+    color: #E4002B !important;
+}
+
+#menun{
+    font-size: 16px;
+    gap: 15px;
+    display: flex;
+    color: #212529 !important;
+    
+}
+.r-side{
+    width: 85%;
+    background-color: white;
+    gap: 20px;
+}
+.view{
+    flex-wrap: wrap;
+    box-shadow: 0px 0px 8px 3px #b3b2b2;
+    display: flex;
+    
+    width: 100%;
+    gap: 20px;
+    overflow: hidden;
+}
+.boxr{
+    width: 237px !important;
+    height: 406px !important;
+    border: 0.1px solid #f4e9e9;
+    display: flex;
+    overflow: hidden;
+    align-items: center;
+    flex-wrap: wrap;
+    flex-direction: column;
+    gap: 20px;
+    border-radius: 8px;
+    z-index: 2px;
+}
+.titr{
+    font-size: 18px;
+    width: 190px;
+    display: flex !important;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.namem{
+    color: #E4002B;
+    display: flex;
+    width: 100%;
+    font-size: 20px;
+    align-items: flex-start;
+}
+.btnr{
+    width: 198px;
+    height: 37px;
+    background-color: #E4002B;
+    color: white;
+    font-size: 16px;
+    border-radius: 6px;
+    outline: none;
+    border: none;
+    overflow: hidden;
+    position: relative;
+    bottom: -8px;
+}
+.desr{
+    font-size: 14px;
+    width: 190px;
+}
+.blocks{
+    height: auto !important;
+    box-shadow: 0px 0px 8px 3px #e6dbdb;
+    padding: 15px;
+    display: flex;
+    gap: 20px;
+    flex-direction: column;
+    border-radius: 7px;
+    align-items: center;
+    width: 82%;
+    position: relative;
+}
+
+.menu-cards{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+.boxrimg{
+    width: 215px;
+    height: 193px;
+ 
+}

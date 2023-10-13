@@ -1,0 +1,52 @@
+.cards2{
+    width: 100%;
+    height: 80vh;
+    background-color: rgb(238, 236, 236);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    gap: 20px;
+}
+.btn{
+    width: 235px;
+    height: 49px;
+    border: none;
+    border-radius: 5px;
+    background-color: #E4002B;
+    font-size: 1.1rem;
+    outline: none   ;
+    color: white;
+}
+.btnc{
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+}
+.left{
+    width: 700px;
+    height: 450px;
+    background-image: url(./okarachka2.jpeg);
+    background-size: cover;
+    border-radius: 7px;
+    flex-direction: column;
+    color: white;
+    gap: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.right{
+    width: 700px;
+    color: white;
+    flex-direction: column;
+    gap: 30px;
+    background-image: url(./okarachka.webp);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 450px;
+    border-radius: 7px;
+    background-size: cover;
+}

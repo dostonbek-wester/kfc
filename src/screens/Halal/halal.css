@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@300&display=swap');
+
+.container-halal1{
+    height: auto ;
+    overflow: hidden;
+    width: 1069px;
+    flex-wrap: wrap;
+    box-shadow: 0px 0px 8px 3px #d7d4d4;
+    
+    padding: 20px;
+    display: flex;
+    border-radius: 10px;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center; 
+    margin-bottom: 100px;
+}
+.sp{
+    font-size: 14px;
+}
+#h4h{
+    font-size: 14px;
+    padding-top: 30px;
+    font-family: 'Roboto Mono', monospace;
+}
+.halalpng1{
+    width: 973px !important;
+    height: 251px !important;
+}
+a{
+    text-decoration: none;
+    color: red;
+    font-family: 'Roboto Mono', monospace;
+
+}
+.hrf{
+    padding-top: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width: 100%;
+    justify-content: start !important;
+}
+
+.halal1{
+    margin: auto;
+    max-width: 1350px;
+    display: flex;
+    padding-top: 150px;
+    height: auto !important;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+    gap: 30px;
+
+}

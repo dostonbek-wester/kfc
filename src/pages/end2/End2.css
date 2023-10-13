@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@200&display=swap');
+.end2{
+    width: 100%;
+    height: 158px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    overflow: hidden;
+    background-color: rgb(238, 16, 16);
+    color: white;
+}
+.end2 a, .ikkisoz{
+    
+    font-family: 'Noto Serif SC', serif !important;
+}
+.bir a{
+    color: white;
+    text-decoration: none;
+}
+span{
+    font-size: 1.3rem;
+}
+.qator1{
+    display: flex;
+    justify-content: space-around;
+    align-items: start;
+    margin-top: 20px;
+    width: 100%;
+}
+#div{
+    height: 60px;
+    width: 80px;
+    background-color: white;
+}
+.qator2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+    
+}
+.uch a img{
+    width: 80px;
+    height: 80px;
+}

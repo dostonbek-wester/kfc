@@ -1,0 +1,52 @@
+.end{
+    width: 100%;
+    height: 460px;
+    background-image: url(https://media.istockphoto.com/id/458607339/photo/kentucky-fried-chicken-fast-food-restaurant.jpg?s=1024x1024&w=is&k=20&c=k2M6p5JdCs7jOTUcmDNPEH2GxPbEdpDNnvuTHDtKwwE=);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    gap: 200px;
+    border-bottom: 0.5px solid black;
+}
+
+.phoneimg{
+    width: 500px;
+    height: 460px;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    position: relative;
+}
+.tarmoqlar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+.link{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    gap: 30px;
+    align-items: center;
+}
+.phone{
+    width: 500px;
+    height: 435px;
+    
+}
+.h1{
+    color: white;
+
+} 
+.h3{
+    color: white;
+}
+#imgs{
+    width: 80px;
+    height: 80px;
+}

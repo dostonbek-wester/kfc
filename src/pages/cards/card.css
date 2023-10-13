@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&family=Sora:wght@200;300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&family=Sora:wght@200&display=swap');
+.card-container{
+  width: 100%;
+  height: 110vh !important;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-direction: column;
+  background-color: rgb(238, 236, 236);
+}
+.card{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+.buy{
+  width: 304px;
+  height: 37px;
+  border: none;
+  background-color: red;
+  border-radius: 5px;
+  outline: none;
+  color: white;
+  font-size: 1rem;
+  position: absolute;
+  bottom: 10px;  
+}
+.btns{
+  font-family: 'Sora', sans-serif;
+  margin-top: 40px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+.btn1{
+  width: 355px;
+  height: 49px  ;
+  font-size: 1rem;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  background-color: #E4002B;
+}
+.box{
+  width: 360px !important;
+  height: 570px !important;
+  display: flex;
+  cursor: pointer;
+  align-items: center;
+  flex-direction: column;
+  gap: 10px;
+  overflow: hidden;
+  position: relative;
+  background-color: white;
+  border-radius: 10px;
+  
+}
+.text h2{
+  text-align: center;
+  padding: 15px;
+  width: 280px;
+  border-bottom: 3px solid red;
+  
+
+}
+#te{
+  display: flex;
+  justify-content: center;
+}
+.box-description{
+  color: #222121;
+  width: 324px;
+  height: 92px  ;
+  font-size: 16px;
+  font-family: 'Montserrat', sans-serif;
+}
+.text{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.text hr{
+  text-align: center;
+  width: 150px;
+  color: red;
+}
+.box-img{
+  width: 354px;
+  height: 354px;
+}
+.box-tite{
+  font-family: 'Sora', sans-serif;
+  font-size: 18px;
+  text-align: center;
+  
+}

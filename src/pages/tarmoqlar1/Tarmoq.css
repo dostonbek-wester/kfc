@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Antic+Slab&display=swap');
+.Tarmoq{
+    width: 100%;
+    height: 250px;
+    background-color: white;
+    display: flex;
+    align-items: start !important;
+    gap: 30px !important;
+    padding: 30px;
+    box-sizing: border-box;
+    justify-content: space-around;
+}
+.left1{
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+}
+.right1{
+    display: flex;
+    align-items: start;
+    height: 100%;
+}
+.threetwo{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    
+}
+.Tarmoq .two .twotwo a h4{
+    font-family: 'Antic Slab', serif !important;
+    font-size: 14px;
+}
+
+.Tarmoq .name{
+    color: red;
+}
+.Tarmoq a{
+    text-decoration: none;
+    color: #7e7c7c;
+    font-family: 'Antic Slab', serif !important;
+}
+.logot{
+    width: 100px;
+    height: 100px;
+}
+#imgg{
+    width: 30px;
+    height: 30px;
+}
+.h4t{
+    color: #909090;
+    
+}
+.one{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    flex-direction: column;
+}
+.two{
+    display: flex;
+    justify-content: start;
+    margin-left: 70px;
+    gap: 12px;
+    flex-direction: column;
+}
+.three{
+    display: flex;
+    justify-content: start;
+    
+    gap: 15px;
+    flex-direction: column;
+}
+.four{
+    display: flex;
+    justify-content: start;
+    
+    gap: 20px;
+    flex-direction: column;
+}
+.iconcall{
+    color: red;
+}
+.onetwo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 6px;
+}

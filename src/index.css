@@ -1,0 +1,32 @@
+@import url(https://fonts.googleapis.com/css?family=Cabin:regular,500,600,700,italic,500italic,600italic,700italic);
+*{
+    margin: 0;
+    font-family: sans-serif;
+    box-sizing: Cabin,border-box;
+    user-select: none;
+    scroll-behavior: smooth;
+}
+body::-webkit-scrollbar {
+  width: 10px;
+  height: 5px !important;
+}
+
+
+
+body::-webkit-scrollbar-thumb {
+  border-radius: 10px;
+  width: 5px;
+  background-color: darkgrey;
+}
+.container{
+    width: 100%;
+    height: auto;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    
+    margin: auto;
+}
+button{
+    cursor: pointer;
+}
