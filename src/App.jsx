@@ -6,13 +6,14 @@ import Cards from "./pages/cards/Card"
 import Cards2 from "./pages/cards2/Cards2"
 import Became from "./pages/became/Became"
 import Restaurant from './screens/Restaurant/Restaurant'
-import Header from './pages/header/header'
+import Header from './pages/header/Header'
 import Halal from "./screens/Halal/Halal"
 import View from "./screens/View/View"
 import End from './pages/End/End'
 import Tarmoq from "./pages/tarmoqlar1/Tarmoq"
 import End2 from './pages/end2/End2'
 import Scrolltop from './components/Scrolltop/Scrolltop'
+
 function Homes() {
   return (
     <>
